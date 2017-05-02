@@ -1,0 +1,14 @@
+.color {
+  background-color: #FFE4C4;
+}
+.intro {
+  font-style: italic;
+p.fancy {
+  font-family: cursive;
+}
+p.boring {
+  font-family: monospace;
+}
+p.booring {
+  font-family: fantasy;
+}
